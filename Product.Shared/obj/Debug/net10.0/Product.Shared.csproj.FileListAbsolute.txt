@@ -1,0 +1,11 @@
+D:\Digvijay Project\ProductService\Product.Shared\bin\Debug\net10.0\Product.Shared.deps.json
+D:\Digvijay Project\ProductService\Product.Shared\bin\Debug\net10.0\Product.Shared.dll
+D:\Digvijay Project\ProductService\Product.Shared\bin\Debug\net10.0\Product.Shared.pdb
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.AssemblyInfoInputs.cache
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.AssemblyInfo.cs
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.csproj.CoreCompileInputs.cache
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.dll
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\refint\Product.Shared.dll
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\Product.Shared.pdb
+D:\Digvijay Project\ProductService\Product.Shared\obj\Debug\net10.0\ref\Product.Shared.dll

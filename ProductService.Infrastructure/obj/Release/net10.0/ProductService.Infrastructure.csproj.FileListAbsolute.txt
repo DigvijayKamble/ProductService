@@ -1,0 +1,5 @@
+D:\Digvijay Project\ProductService\ProductService.Infrastructure\obj\Release\net10.0\ProductService.Infrastructure.csproj.AssemblyReference.cache
+D:\Digvijay Project\ProductService\ProductService.Infrastructure\obj\Release\net10.0\ProductService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digvijay Project\ProductService\ProductService.Infrastructure\obj\Release\net10.0\ProductService.Infrastructure.AssemblyInfoInputs.cache
+D:\Digvijay Project\ProductService\ProductService.Infrastructure\obj\Release\net10.0\ProductService.Infrastructure.AssemblyInfo.cs
+D:\Digvijay Project\ProductService\ProductService.Infrastructure\obj\Release\net10.0\ProductService.Infrastructure.csproj.CoreCompileInputs.cache
